@@ -1,0 +1,5 @@
+12/10/22 Mua_sua 100000
+12/10/22 Mua_tran_chau 150000
+20/10/22 Mua_cafe 300000
+30/10/22 Tra_tien_dien 2000000
+30/10/22 Tra_tien_nuoc 500000

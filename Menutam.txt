@@ -1,0 +1,6 @@
+CF	 Cafe 	CF1 	Cafeden 			12000
+CF	 cafe 	CF2 	Cafesua 			14000
+ST	 Sinh_To 	ST1	Sinh_to_dau 		25000
+SU 	 Sua 		SU1 	Sua_tuoi_tran_chau 	25000
+GK	 Giai_Khat  GK1 	Sting 			10000
+TC 	 Tra 		T1 	Tra_Chanh 			12000
